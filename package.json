@@ -1,0 +1,22 @@
+{
+  "name": "100daysofcode-bot-twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arun4033622/100DaysOfCode-bot-twitter.git"
+  },
+  "author": "Arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arun4033622/100DaysOfCode-bot-twitter/issues"
+  },
+  "homepage": "https://github.com/Arun4033622/100DaysOfCode-bot-twitter#readme",
+  "dependencies": {
+    "twitter-lite": "^0.9.4"
+  }
+}
